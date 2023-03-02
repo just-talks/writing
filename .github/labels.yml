@@ -1,0 +1,9 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: 22798A
+  description: ""
+  name: RFC
+- color: 7749E9
+  description: ""
+  name: 翻译
